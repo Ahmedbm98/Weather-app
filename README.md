@@ -1,6 +1,6 @@
 # Overview
 
-This app provides daily weather forecasts, which helps users prepare for specific weather conditions, Its interface is easy to use, The app is responsive and suitable for all screens, whether mobile, tablet, or larger screens
+This app provides daily weather forecasts, which helps users prepare for specific weather conditions, Its interface is easy to use, and The app is responsive and suitable for all screens, whether mobile, tablet, or larger screens
 
 # Features
 
@@ -8,6 +8,9 @@ This app provides daily weather forecasts, which helps users prepare for specifi
 - Users can easily check the weather to find out their location or explore other cities around the world
 - Users can also view a 3-day weather forecast to plan their activities in advance
 - Use Weather API and geolocation API to automatically detect your location
+
+# Live Demo 
+Experience the Tabs Project in action! Click the link below to access the live demo: (weather Demo)[https://ahmedbm98.github.io/Weather-app/]
 
 # Technologies
 

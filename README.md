@@ -10,7 +10,7 @@ This app provides daily weather forecasts, which helps users prepare for specifi
 - Use Weather API and geolocation API to automatically detect your location
 
 # Live Demo 
-Experience the Tabs Project in action! Click the link below to access the live demo: [weather Demo](https://ahmedbm98.github.io/Weather-app/)
+Experience the Tabs Project in action! Click the link below to access the live demo: [Weather Live](https://ahmedbm98.github.io/Weather-app/)
 
 # Technologies
 

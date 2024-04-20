@@ -210,3 +210,12 @@ function displayWeather(data) {
   detailsWeather.innerHTML = containerDetailsWeather;
   todayHighlights.innerHTML = containerHighlightsToday;
 }
+
+// Loading
+window.addEventListener("load", function () {
+  let loader = document.querySelector(".container-loading");
+
+  setTimeout(() => {
+    loader.style.display = "none";
+  }, 2000);
+});
